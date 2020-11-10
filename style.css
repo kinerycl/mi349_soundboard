@@ -1,0 +1,34 @@
+button { 
+    background-color: #55DCE2;
+    border-radius: 50%;
+}
+
+body{
+    margin: auto;
+    width: 50%;
+    padding: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.buttons {
+    margin-left: 15px;
+}
+
+h1 { 
+    border-bottom: dotted rgb(0, 55, 128);
+    font-size: 1.6em;
+    padding-left: 2px;
+    color: #424242;
+}
+
+#sound1 {
+    background-color: #FA5858;
+}
+
+#sound2 {
+    background-color: #F4FA58;
+}
+
+#sound3 {
+    background-color: #58ACFA;
+}
